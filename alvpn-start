@@ -1,2 +1,0 @@
-#!/bin/bash
-sudo openconnect --no-cert-check --quiet --user=lmayo --authgroup=devqaprod --script=/etc/vpnc/vpnc-script --background --pid-file=/Users/lmayo/pid-vpn --passwd-on-stdin https://katvpn.alertlogic.com < /Users/lmayo/.asdf
